@@ -39,7 +39,7 @@
 
 ## 下载
 
-- [下载 macOS Apple 芯片版](https://github.com/tongpengfei/dafei-academy/releases/download/v0.1.0/DaFeiAcademy-0.1.0-macOS-arm64.dmg)
+- [下载 macOS Apple 芯片版](https://github.com/tongpengfei/dafei-academy/releases/download/v0.1.1/DaFeiAcademy-0.1.1-macOS-arm64.dmg)
 - [下载 Windows x64 版](https://github.com/tongpengfei/dafei-academy/releases/download/v0.1.0/DaFeiAcademy-Setup-0.1.0-x64.exe)
 - [查看全部版本](https://github.com/tongpengfei/dafei-academy/releases)
 
